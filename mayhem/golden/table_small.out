@@ -1,0 +1,13 @@
+columns=3 border=2 linestyle=u expanded=0
+first_data_row=-1 last_data_row=5 footer_row=7 last_row=7 total_rows=9
+headline_transl=LdddddddddddddIdddddddIdddddddR
+multilines=0
+┌─────────────┬───────┬───────┐
+│      a      │   b   │   c   │
+╞═════════════╪═══════╪═══════╡
+│ tomas       │ tomas │ tomas │
+│ pavel pavel │ tomas │ tomas │
+│ petr        │ tomas │ tomas │
+└─────────────┴───────┴───────┘
+(3 rows)
+

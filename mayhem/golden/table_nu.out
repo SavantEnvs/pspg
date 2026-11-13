@@ -1,0 +1,17 @@
+columns=7 border=2 linestyle=u expanded=0
+first_data_row=-1 last_data_row=10 footer_row=12 last_row=11 total_rows=13
+headline_transl=LdddIddddddIdddddddddddddddddddddddddddddddddddddddddddIddddddIdddddddddddIddddddddddddddddddIddddddddddddddR
+multilines=0
+╭───┬──────┬───────────────────────────────────────────┬──────┬───────────┬──────────────────┬──────────────╮
+│ # │ name │                   brand                   │ freq │ cpu_usage │   load_average   │  vendor_id   │
+├───┼──────┼───────────────────────────────────────────┼──────┼───────────┼──────────────────┼──────────────┤
+│ 0 │ cpu0 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 1 │ cpu1 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 2 │ cpu2 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 3 │ cpu3 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 4 │ cpu4 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 5 │ cpu5 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 6 │ cpu6 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+│ 7 │ cpu7 │ Intel(R) Core(TM) i7-2630QM CPU @ 2.00GHz │    4 │      0.00 │ 0.82, 0.86, 0.91 │ GenuineIntel │
+╰───┴──────┴───────────────────────────────────────────┴──────┴───────────┴──────────────────┴──────────────╯
+

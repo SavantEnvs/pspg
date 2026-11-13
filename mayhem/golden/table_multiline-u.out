@@ -1,0 +1,19 @@
+columns=3 border=2 linestyle=u expanded=0
+first_data_row=-1 last_data_row=11 footer_row=13 last_row=13 total_rows=15
+headline_transl=LdddIdddIdddR
+multilines=1
+┌───┬───┬───┐
+│ a │ b │ c │
+╞═══╪═══╪═══╡
+│ 1 │ a↵│ a↵│
+│   │ b │ b↵│
+│   │   │ c │
+│ 3 │ a↵│ a↵│
+│   │ b │ b↵│
+│   │   │ c │
+│ 2 │ a↵│ a↵│
+│   │ b │ b↵│
+│   │   │ c │
+└───┴───┴───┘
+(3 rows)
+

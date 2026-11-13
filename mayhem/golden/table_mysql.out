@@ -1,0 +1,19 @@
+columns=2 border=2 linestyle=a expanded=0
+first_data_row=-1 last_data_row=12 footer_row=14 last_row=14 total_rows=15
+headline_transl=LddddddIddddddddddddddddddR
+multilines=0
++------+------------------+
+| fid  | title            |
++------+------------------+
+|    1 | ACADEMY DINOSAUR |
+|    2 | ACE GOLDFINGER   |
+|    3 | ADAPTATION HOLES |
+|    4 | AFFAIR PREJUDICE |
+|    5 | AFRICAN EGG      |
+|    6 | AGENT TRUMAN     |
+|    7 | AIRPLANE SIERRA  |
+|    8 | AIRPORT POLLOCK  |
+|    9 | ALABAMA DEVIL    |
+|   10 | ALADDIN CALENDAR |
++------+------------------+
+(10 rows) in set (0.06 sec)

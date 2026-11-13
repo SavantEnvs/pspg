@@ -1,0 +1,9 @@
+project: savantenvs/pspg
+target: pspg_table
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/pspg_table/testsuite
+cmds:
+  - cmd: /mayhem/pspg_table
+    libfuzzer: true
+    timeout: 30

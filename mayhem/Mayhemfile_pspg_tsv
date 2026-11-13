@@ -1,0 +1,8 @@
+project: savantenvs/pspg
+target: pspg_tsv
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/pspg_tsv/testsuite
+cmds:
+  - cmd: /mayhem/pspg_asan --tsv --ni @@
+    timeout: 30
